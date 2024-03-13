@@ -9,11 +9,11 @@
 	<b>Состав курсовой работы:
 	<p>
     <div class="nav">
-     <a href="./Kursovoy.html">Главная</a> 
-	 <a href="./Razdel3.html">Раздел 1</a> 
-	 <a href="./Razdel2.html">Раздел 2</a> 
+     <a href="./README.md">Главная</a> 
+	 <a href="./Razdel3.md">Раздел 1</a> 
+	 <a href="./Razdel2.md">Раздел 2</a> 
 	 <a href="./SimonovaKA.pdf">Раздел 3</a> 
-	 <a href="./Razmetka.html">Разметка диска</a>
+	 <a href="./Razmetka.md">Разметка диска</a>
     </div>
 	</p>
 	</b> 
