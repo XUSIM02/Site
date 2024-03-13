@@ -9,9 +9,9 @@
   <b>Состав раздела: 
     <p>
     <div class="nav">
-      <a href="../Razdel2.html">Вернуться к разделу</a>
-      <a href="./DEAMONTools.html">DEAMON Tools</a>
-      <a href="./UltraISO.html">UltralISO</a>
+      <a href="../Razdel2.md">Вернуться к разделу</a>
+      <a href="./DEAMONTools.md">DEAMON Tools</a>
+      <a href="./UltraISO.md">UltralISO</a>
     </div>
 	</p>
   </b> 
