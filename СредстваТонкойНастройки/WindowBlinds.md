@@ -9,9 +9,9 @@
   <b>Состав раздела: 
     <p>
     <div class="nav">
-      <a href="../Razdel3.html">Вернуться к разделу</a>
-      <a href="./MyFolders.html">My Folders</a>
-      <a href="./WinaeroTweaker.html">Winaero Tweaker</a>
+      <a href="../Razdel3.md">Вернуться к разделу</a>
+      <a href="./MyFolders.md">My Folders</a>
+      <a href="./WinaeroTweaker.md">Winaero Tweaker</a>
     </div>
 	</p>
   </b> 
