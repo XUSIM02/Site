@@ -9,9 +9,9 @@
   <b>Состав раздела: 
     <p>
     <div class="nav">
-      <a href="../Razdel3.html">Вернуться к разделу</a>
-      <a href="./MyFolders.html">My Folders</a>
-      <a href="./WindowBlinds.html">WindowBlinds</a>
+      <a href="../Razdel3.md">Вернуться к разделу</a>
+      <a href="./MyFolders.md">My Folders</a>
+      <a href="./WindowBlinds.md">WindowBlinds</a>
     </div>
 	</p>
   </b> 
