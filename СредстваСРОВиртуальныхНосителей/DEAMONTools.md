@@ -9,9 +9,9 @@
   <b>Состав раздела: 
     <p>
     <div class="nav">
-      <a href="../Razdel2.html">Вернуться к разделу</a>
-      <a href="./Nero.html">Nero</a>
-      <a href="./UltraISO.html">UltraISO</a>
+      <a href="../Razdel2.md">Вернуться к разделу</a>
+      <a href="./Nero.md">Nero</a>
+      <a href="./UltraISO.md">UltraISO</a>
     </div>
 	</p>
   </b> 
